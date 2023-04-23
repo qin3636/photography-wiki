@@ -6,3 +6,5 @@
 * [artsy](https://www.artsy.net)
 * [LensCulture](https://lensculture.com)
 * [Higher Pictures](https://higherpictures.com)
+* [WORLD PRESS PHOTO](https://www.worldpressphoto.org)
+* [indenpendent photo](https://independent-photo.com)
